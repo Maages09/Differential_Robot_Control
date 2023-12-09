@@ -1,8 +1,8 @@
 % Constants from Code 1
-goal_x = 5;  goal_y = 5;
+goal_x = 4;  goal_y = 5;
 robot_x = 0; robot_y = 0;
-k_p_linear = 0.4; k_i_linear = 0.1;
-k_p_angular = 0.5; k_i_angular = 0.6;
+k_p_linear = 0.4; k_i_linear = 0.2;
+k_p_angular = 0.5; k_i_angular = 0.9;
 robot_theta = 0;
 num_iterations = 100; dt = 0.1;
 wheel_radius = 3.5; robot_width = 24.7;
